@@ -1,0 +1,4 @@
+C:\Users\nufar\Desktop\Final Project DAMN IT\SkeletalTracking\Resources\camera.png,1,50,50,2,black
+C:\Users\nufar\Desktop\Final Project DAMN IT\SkeletalTracking\Resources\kinect.png,1,100,90,1,blue
+C:\Users\nufar\Desktop\Final Project DAMN IT\SkeletalTracking\Resources\hand.png,1,100,90,0,red
+C:\Users\nufar\Desktop\Final Project DAMN IT\SkeletalTracking\Resources\net.gif,1,100,90,3,yellow
